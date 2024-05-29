@@ -1,1 +1,1 @@
-# DevSecOps-app
+# devsecops-gitlab-java-vulnerable-application
