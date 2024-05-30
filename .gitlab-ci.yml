@@ -1,0 +1,6 @@
+stages:
+  - echoprintText
+print-text-job:
+  stage: echoPrintText
+  script:
+    - echo "This is a simple file created by A AOIT Security Team in GitLab "
